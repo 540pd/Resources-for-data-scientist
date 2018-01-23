@@ -1,2 +1,2 @@
 # Resources for data scientist
-Cheat Sheet, lecture notes, useful links and eBooks
+Cheat Sheet, lecture notes, useful resources and eBooks
