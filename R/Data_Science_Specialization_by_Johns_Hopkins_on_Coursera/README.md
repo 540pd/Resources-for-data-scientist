@@ -1,7 +1,7 @@
 
 ### Data Science Specialization
 
-These are the lecture slides for course materials for the Johns Hopkins Data Science Specialization on Coursera. 
+These are the lecture slides of course materials for the Johns Hopkins Data Science Specialization on Coursera. 
 
 https://www.coursera.org/specialization/jhudatascience/1
 
