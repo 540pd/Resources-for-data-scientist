@@ -4,6 +4,7 @@
 
 ### Additional Python Resources
 * Dr Chuck Severance's Coursera Specialization, [Python for Everybody](https://www.coursera.org/specializations/python)
+* Python Basics-[Socratica on youtube](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
 * [Python Docs](https://www.coursera.org/specializations/python) (for general Python documentation)
 * [Python Classes Docs](https://docs.python.org/3.5/tutorial/classes.html)
 * [Scipy](https://docs.python.org/3.5/tutorial/classes.html) (for [IPython](http://ipython.org/), [Numpy](http://www.numpy.org/), [Pandas](http://pandas.pydata.org/), and [Matplotlib](http://matplotlib.org/))
