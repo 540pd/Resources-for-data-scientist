@@ -3,7 +3,7 @@
 * Created by: Christopher Brooks, Kevyn Collins-Thompson, V. G. Vinod Vydiswaran and Daniel Romero from University of Michigan
 
 ### Additional Python Resources
-* Dr Chuck Severance's Coursera Specialization, [Python for Everybody](#https://www.coursera.org/specializations/python)
+* Dr Chuck Severance's Coursera Specialization, [Python for Everybody](https://www.coursera.org/specializations/python)
 
 Python Docs (for general Python documentation)
 https://www.coursera.org/specializations/python
